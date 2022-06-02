@@ -51,7 +51,6 @@ const SymbolButton = (props: any) => {
           fomulaContext.setFomula("");
           break;
         case "DEL":
-          console.log(rtnObj.inputValue.slice(0, -1));
           rtnObj.inputValue = rtnObj.inputValue.slice(0, -1);
           break;
         default:
@@ -91,7 +90,7 @@ const SButton = styled.button<{ color: string }>`
     }
   }};
   width: 25%;
-  height: 105px;
+  height: 17.2%;
   border: 1px solid #1f1f1f;
   font-size: 1.5rem;
   padding: 25px auto;
