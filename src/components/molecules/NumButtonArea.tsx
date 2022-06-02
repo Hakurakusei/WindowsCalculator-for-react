@@ -37,7 +37,7 @@ const NumButtonArea = () => {
 const Container = styled.div`
   position: relative;
   width: 100%;
-  height: 65%;
+  height: 97%;
   box-sizing: border-box;
 `;
 

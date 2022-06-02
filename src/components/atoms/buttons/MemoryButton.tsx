@@ -11,7 +11,7 @@ const MButton = styled.button`
   background-color: #1f1f1f;
   border: none;
   font-size: 0.8rem;
-  padding: 15px 25px;
+  padding: 9px 25px;
   cursor: pointer;
 `;
 

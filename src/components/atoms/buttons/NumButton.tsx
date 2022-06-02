@@ -42,7 +42,7 @@ const NButton = styled.button<{ color: string }>`
     }
   }};
   width: 25%;
-  height: 17.2%;
+  height: 16.6%;
   border: 1px solid #1f1f1f;
   font-size: 1.5rem;
   padding: 25px auto;
